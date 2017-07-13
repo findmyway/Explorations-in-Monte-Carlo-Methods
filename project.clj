@@ -5,4 +5,5 @@
             :url "https://opensource.org/licenses/MIT"
             :year 2017
             :key "mit"}
-  :dependencies [[org.clojure/clojure "1.8.0"]])
+  :dependencies [[org.clojure/clojure "1.8.0"]
+                 [net.mikera/core.matrix "0.60.3"]])
